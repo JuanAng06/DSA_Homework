@@ -25,7 +25,7 @@ struct LinkedList {
         size = 0;
     }
 
-    // ===== HELPER FUNCTIONS =====
+                                                    // ===== HELPER FUNCTIONS =====
     bool isEmpty() const {
         return (size == 0);
     }
@@ -40,7 +40,7 @@ struct LinkedList {
 
     //public
 
-    // ===== MAIN FUNCTIONS =====
+                                                    // ===== MAIN FUNCTIONS =====
 
     /**
      * Truy cập và in giá trị tại vị trí chỉ định trong danh sách liên kết.

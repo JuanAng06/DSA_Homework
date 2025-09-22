@@ -44,7 +44,7 @@ struct List{
         return (position >= 0 && position <= count);
     }
 
-    // ===== MAIN FUNCTIONS =====
+                                                        // ===== MAIN FUNCTIONS =====
 
     /**
      * Truy cập phần tử tại vị trí chỉ định trong danh sách.
