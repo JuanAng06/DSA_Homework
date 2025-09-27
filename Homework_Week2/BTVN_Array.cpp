@@ -9,12 +9,6 @@ struct List{
     int* data;
 
     /**Constructor*/
-    List(){
-        data = nullptr;
-        size = 0;
-        count = 0;
-    }
-
     List(int cap){
         data = new int[cap];
         size = cap;
